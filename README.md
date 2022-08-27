@@ -1,4 +1,4 @@
-# **Animaly Detection**
+# **Anomaly Detection**
 This project is a simple anomaly detection application. I set up a streaming pipeline with spark and kafka through docker containers. 
 
 ## Docker-Compose File
