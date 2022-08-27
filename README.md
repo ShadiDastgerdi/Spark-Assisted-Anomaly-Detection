@@ -34,7 +34,7 @@ sudo chown -R root:root jars_dir
 sudo chmod -R 775 jars_dir
 ```
 ### **change the permissions on files and directory**
-To save anomaly_detection.py checkpoints in the code directory, change the permissions on this direcory:
+To save anomaly_detection.py checkpoints in the /code, change the permissions on this direcory:
 ```
 sudo chown -R root:root code
 sudo chmod -R 775 code
