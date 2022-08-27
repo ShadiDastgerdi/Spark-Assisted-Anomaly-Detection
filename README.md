@@ -42,7 +42,7 @@ sudo chmod -R 775 code
 To run the scripts, change the following permissions:
 ```
 sudo chmod +x kafka_script/producer.sh
-sudo chmod +x code/consumer.sh
+sudo chmod +x code/spark_submit.sh
 ```
 ### **Run docker-compose.yml**
 ```
