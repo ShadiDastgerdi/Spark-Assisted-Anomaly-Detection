@@ -26,7 +26,7 @@ git clone https://github.com/ShadiDastgerdi/anomaly-detection.git
 cd anomaly-detection
 ```
 
-### **create jars_dir directory**
+### **Create jars_dir directory**
 Create a directory called jars_file. anomaly-detection jar files will be stored in this directory.
 ```
 sudo mkdir jars_dir
