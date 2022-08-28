@@ -20,7 +20,7 @@ This docker-compose includes 7 services that communicate with each other through
 
 
 ## Running services
-### **clone the repository**
+### **Clone the repository**
 ```
 git clone https://github.com/ShadiDastgerdi/anomaly-detection.git
 cd anomaly-detection
@@ -33,7 +33,7 @@ sudo mkdir jars_dir
 sudo chown -R root:root jars_dir
 sudo chmod -R 775 jars_dir
 ```
-### **change the permissions on files and directory**
+### **Change the permissions on files and directory**
 To save anomaly_detection.py checkpoints in the /code, change the permissions on this direcory:
 ```
 sudo chown -R root:root code
